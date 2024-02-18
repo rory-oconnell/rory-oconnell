@@ -1,14 +1,15 @@
 # 💫 About Me:
 Hi there! My name is Rory O'Connell.<br>
 
-After graduating from Dublin City University in 2016 with a B.Sc in Marketing Innovation and Technology, I worked in various marketing/tech roles for 4
-years in Ireland and Canada.<br> 
+After graduating from Dublin City University in 2016 with a B.Sc in Marketing Innovation and Technology, I worked in various marketing/tech roles for four years in both Ireland and Canada.<br> 
 
 Some of the companies I worked with included eBay, Irish Rail, Aviso Wealth, and White Spot.<br>
 
 During my career, I found a passion for coding and engineering and made the decision to go back to school in 2019.<br>
 
-I am now a final-year Computer Engineering student at Trinity College Dublin and I am excited to pursue a career in software engineering!
+I took a pre-requisite class with Collaiste Dhulaigh and on the basis of my performance, I secured a place at Trinity College Dublin to study Engineering full-time.<br>
+
+Four years later, I am now a final-year Computer Engineering student at Trinity College Dublin and I am excited to pursue a career in software engineering!
 
 
 ## 🌐 Socials:
