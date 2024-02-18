@@ -1,12 +1,14 @@
 # 💫 About Me:
-Hi there! My name is Rory O'Connell.<br><br>
+Hi there! My name is Rory O'Connell.<br>
 
-After graduating from DCU in 2016 with a B.Sc in Marketing Innovation and Technology, I worked in various marketing/tech roles for 4
-years in Ireland and Canada with companies like eBay, Irish Rail, Aviso Wealth, and the BC restaurant chain Triple O’s/White Spot. <br><br>
+After graduating from Dublin City University in 2016 with a B.Sc in Marketing Innovation and Technology, I worked in various marketing/tech roles for 4
+years in Ireland and Canada.<br> 
 
-During my career, I found a passion for coding and engineering and made the decision to go back to school in 2019.<br><br> 
+Some of the companies I worked with included eBay, Irish Rail, Aviso Wealth, and White Spot.<br>
 
-I am now a final-year Computer Engineering student at Trinity College Dublin and I am excited to pursue a career in software engineering.
+During my career, I found a passion for coding and engineering and made the decision to go back to school in 2019.<br>
+
+I am now a final-year Computer Engineering student at Trinity College Dublin and I am excited to pursue a career in software engineering!
 
 
 ## 🌐 Socials:
